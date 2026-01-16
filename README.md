@@ -1,4 +1,4 @@
-# TimeArtist (Submitted to AAAI 2026)
+# TimeArtist
 
 ### This is an offical implementation of "TimeArtist: Temporal-Visual Multimodal Conversion for Zero-Shot Time Series Forecasting and Classification with Pretrained Vision Models"
 
